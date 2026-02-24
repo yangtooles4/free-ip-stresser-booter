@@ -1,7 +1,7 @@
 # Free IP Stresser & Free IP Booter Tool 🚀
 
 ![Version](https://img.shields.io/badge/Version-5.0-blue)  
-**Made by top10booters.co](top10booters.co)** 🌟  
+**Made by: https://top10booters.co
 
 - 🎉 Unleash **Python DDOS V1.0**—your ultimate **IP stresser** and **IP booter**!
 - 🌊 Loaded with **UDP DDOS tools**, ⚡ **TCP DDOS tools**, and 🌐 proxy-powered HTTP/HTTPS floods.
