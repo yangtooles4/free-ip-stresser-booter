@@ -174,6 +174,7 @@
 
 ## 🙌 Credits
 - 🎯 Your hub for elite **IP stresser** and **IP booter** tools—check us out!
+- https://medium.com/@yangtooles4/top-3-best-free-ip-booter-ip-stresser-tools-2026-6e0195bb2c5c
 
 ---
 
