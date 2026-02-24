@@ -1,7 +1,7 @@
 # Free IP Stresser & Free IP Booter Tool 🚀
 
 ![Version](https://img.shields.io/badge/Version-5.0-blue)  
-**Made by [https://elitestresser.club](https://elitestresser.club)** 🌟  
+**Made by top10booters.co](top10booters.co)** 🌟  
 
 - 🎉 Unleash **Python DDOS V1.0**—your ultimate **IP stresser** and **IP booter**!
 - 🌊 Loaded with **UDP DDOS tools**, ⚡ **TCP DDOS tools**, and 🌐 proxy-powered HTTP/HTTPS floods.
@@ -49,12 +49,11 @@
   - 🧵 TCP styles: Single or 10-thread multi-action!
 
 - 🖥️ **Slick Design**:
-  - 🎨 ASCII art intro with "Made by elitestresser.club".
+  - 🎨 ASCII art intro with "
   - 🌈 Colors: Cyan (start), Green (done), Red (oops).
   - ✨ Emojis: Rockets (🚀), checks (✅), crosses (❌).
   - 📊 Packet/connection counts every time.
 
-- 🏷️ **Title**: "Python DDOS V1.0 By elitestresser.club" on your window.
 
 - 🕶️ **Proxies**: Fetches fresh HTTP proxies daily from [this list](https://raw.githubusercontent.com/vakhov/fresh-proxy-list/refs/heads/master/http.txt)!
 
@@ -95,7 +94,6 @@
 ## 🎮 Usage
 
 - ▶️ **Kick It Off**:
-  - 🚀 Window title switches to "Python DDOS V1.0 By elitestresser.club".
   - 🖥️ You’ll see:
     ```
     ____  ____   ____  _____    ____  ____    ____    ____ 
@@ -105,7 +103,6 @@
   |  _  ||  O  ||  _  ||   _] |  _  ||  O  ||  _  | |  |_  |
   |  |  ||     ||  |  ||  |   |  |  ||     ||  |  | |   _] |
   |__|__||_____||__|__||__|   |__|__||_____||__|__| |____|
-        Python DDOS V1.0 - Made by elitestresser.club
 
     🔹 Protocols 🔹
       1. UDP 🌊
@@ -176,9 +173,6 @@
 ---
 
 ## 🙌 Credits
-
-- 🌟 **Made by [https://elitestresser.club](https://elitestresser.club)**!
-- 🔥 Built by the network testing pros at [https://elitestresser.club](https://elitestresser.club).
 - 🎯 Your hub for elite **IP stresser** and **IP booter** tools—check us out!
 
 ---
